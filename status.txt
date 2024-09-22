@@ -1,0 +1,11 @@
+Welcome to your one-step solutions for all your study,practice and assessment needs for various
+competitive& recruitment examination and school segment. We have been working tirelessly
+for over a decade to make sure that you have best in class study resources because you deserve
+SUCCESS AND NOTHING LESS...Get the data value to be deleted.
+Open the file for reading from it.
+Read the complete file into a list.
+Delete the data from the list
+Open the file.
+Open same file for writing into it.
+Close the file.
+The method should display.

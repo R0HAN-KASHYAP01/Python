@@ -1,0 +1,8 @@
+Get the data value to be deleted.
+Open the file for reading from it.
+Read the complete file into a upppper list.
+Delete the data from the list
+Open the file.
+Open same file for under writing uper into it.
+Close the file.
+The method should display.

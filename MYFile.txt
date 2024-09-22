@@ -1,0 +1,1 @@
+The relative paths are relative to current working directory.
